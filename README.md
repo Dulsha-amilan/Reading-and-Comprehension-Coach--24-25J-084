@@ -8,7 +8,8 @@ Research Question​
 <li>How can gamification keep children motivated?​</li>
 </ol>
 <h1>System Diagram​</h1>
-(https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
+![all](https://github.com/user-attachments/assets/c98231fb-8dfe-4625-9c3a-02d98e1901bd)
+
 
 
 <h1> IT21381768  SENEVIRATHNA Y M</h1>
