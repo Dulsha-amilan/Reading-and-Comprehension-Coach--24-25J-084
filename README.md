@@ -4,6 +4,8 @@
 
 **Developed By**: Senevirathna Y.M., Hetti Hewa K.C.W.B., Karunarathna L.M.J.T., Senavirathna W.H.D.A
 
+---
+
 ## Welcome
 The Reading and Comprehension Coach is an innovative application designed to enhance children's reading skills and comprehension abilities through personalized, engaging, and interactive learning experiences. By leveraging modern technologies such as voice recognition, image recognition, and gamification, this application empowers learners, including those with learning disabilities, to develop their reading proficiency and foster a lifelong love for learning.
 
@@ -157,4 +159,5 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 
 ## Git repository Link
 
-Git repository Link : https://github.com/IT21388002/Lifestyle-Management-System---RP.git
+Git repository Link : https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084.git
+
