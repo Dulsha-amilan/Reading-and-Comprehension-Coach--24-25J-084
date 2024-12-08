@@ -75,7 +75,7 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 #### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/SystemDiagram_IT21381768.png)
 
-<img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/SystemDiagram_IT21381768.png" alt="System Diagram" width="400"/>
+<img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/SystemDiagram_IT21371622.png" alt="System Diagram" width="400"/>
 
 ---
 
