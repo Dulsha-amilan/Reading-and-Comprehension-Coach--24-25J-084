@@ -10,6 +10,8 @@ Research Question​
 
 ## System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
+![System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
+
 
 ---
 
@@ -20,6 +22,7 @@ Research Question​
 <li>What are effective ways to integrate interactive storytelling elements into an educational UI?​​</li>
 <li>How can voice-based interaction help children with disabilities learn more effectively?​​</li>
 <li>How can a system predict a child's general knowledge level and provide personalized feedback? ​</li>
+<li>How can personalized poems based on weather and education level improve engagement and language development in children?</li>
 </ol>
 
 ### System Diagram​
@@ -48,6 +51,7 @@ Research Question​
 <li>Does using hand gestures make math easier for kids?​</li>
 <li>What challenges do kids face with learning apps?​</li>
 <li>How does this app build skills like thinking and movement?​</li>
+<li>Can personalized feedback enhance math learning for young children?​</li>
 </ol>
 
 ### System Diagram​
@@ -62,6 +66,7 @@ Research Question​
 <li>What are effective ways to integrate interactive storytelling elements into an educational UI?​​</li>
 <li>How effective are interactive games in catering to diverse learning styles?​</li>
 <li>Can personalized feedback improve motivation and learning outcomes in vocabulary exercises?​</li>
+<li>What are the measurable benefits of integrating data-driven insights into vocabulary instruction?​</li>
 </ol>
 
 ### System Diagram​
