@@ -8,7 +8,10 @@
 The Reading and Comprehension Coach is an innovative application designed to enhance children's reading skills and comprehension abilities through personalized, engaging, and interactive learning experiences. By leveraging modern technologies such as voice recognition, image recognition, and gamification, this application empowers learners, including those with learning disabilities, to develop their reading proficiency and foster a lifelong love for learning.
 
 
-Research Question​
+## Table of Contents
+
+
+## Research Question
 <ol>
 <li>What interactive features improve kids’ reading comprehension?</li>
 <li>How does personalized reading help learning disabilities or ESL kids?​</li>
@@ -16,6 +19,19 @@ Research Question​
 <li>How can the app track and improve kids’ progress?​</li>
 <li>How can gamification keep children motivated?​</li>
 </ol>
+
+## About the Project
+
+### Objectives
+1. **Main Objective**  
+   Enhance children's reading comprehension by providing personalized, engaging, and interactive learning experiences.​​
+   
+2. **Specific Objectives**  
+   - Interactive Story Visualization​.
+   - Emotion-based learning and quizzes​.
+   - Maths Adventure Quest​.
+   - Understanding Vocabulary​.
+     
 
 ## System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)  
