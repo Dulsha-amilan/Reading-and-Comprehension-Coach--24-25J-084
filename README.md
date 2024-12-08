@@ -9,6 +9,25 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 
 
 ## Table of Contents
+1. [Welcome](#welcome)  
+2. [Research Question](#research-question)  
+3. [About the Project](#about-the-project)  
+   - [Objectives](#objectives)  
+4. [System Diagram](#system-diagram)  
+5. [Key Features](#key-features)  
+   - [Interactive Story Visualization](#it21381768-senevirathna-ym---interactive-story-visualization)  
+   - [Emotion-Based Learning and Quizzes](#it21371622-hetti-hewa-kcwb)  
+   - [Maths Adventure Quest](#it21172014-karunarathna-l-m-j-t)  
+   - [Understanding Vocabulary](#it21357930-senavirathna-whda)  
+6. [Technologies](#technologies)  
+   - [Frontend](#frontend)  
+   - [Backend](#backend)  
+   - [Database](#database)  
+7. [Tools](#tools)  
+   - [Development](#development)  
+   - [Version Control](#version-control)  
+   - [API Testing](#api-testing)  
+8. [Git Repository Link](#git-repository-link)  
 
 
 ## Research Question
@@ -135,3 +154,8 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 ### API Testing
 - Postman
 
+---
+
+## Git repository Link
+
+Git repository Link : https://github.com/IT21388002/Lifestyle-Management-System---RP.git
