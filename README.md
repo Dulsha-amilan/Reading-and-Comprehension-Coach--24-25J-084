@@ -38,10 +38,12 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png" alt="System Diagram" width="500"/>
 
+---
+
 ## Key Features
 
-### IT21381768 SENEVIRATHNA Y M
-Research Question​
+### IT21381768 SENEVIRATHNA Y.M. - Interactive Story Visualization​.
+#### Research Question​
 <ol>
 <li>How to develop child reading ability? </li>
 <li>What are effective ways to integrate interactive storytelling elements into an educational UI?​​</li>
@@ -50,7 +52,7 @@ Research Question​
 <li>How can personalized poems based on weather and education level improve engagement and language development in children?</li>
 </ol>
 
-### System Diagram​
+#### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/1.png)
 
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/1.png" alt="System Diagram" width="500"/>
