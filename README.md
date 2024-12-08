@@ -7,6 +7,7 @@
 ## Welcome
 The Reading and Comprehension Coach is an innovative application designed to enhance children's reading skills and comprehension abilities through personalized, engaging, and interactive learning experiences. By leveraging modern technologies such as voice recognition, image recognition, and gamification, this application empowers learners, including those with learning disabilities, to develop their reading proficiency and foster a lifelong love for learning.
 
+---
 
 ## Table of Contents
 1. [Welcome](#welcome)  
@@ -19,16 +20,11 @@ The Reading and Comprehension Coach is an innovative application designed to enh
    - [Emotion-Based Learning and Quizzes](#it21371622-hetti-hewa-kcwb)  
    - [Maths Adventure Quest](#it21172014-karunarathna-l-m-j-t)  
    - [Understanding Vocabulary](#it21357930-senavirathna-whda)  
-6. [Technologies](#technologies)  
-   - [Frontend](#frontend)  
-   - [Backend](#backend)  
-   - [Database](#database)  
-7. [Tools](#tools)  
-   - [Development](#development)  
-   - [Version Control](#version-control)  
-   - [API Testing](#api-testing)  
+6. [Technologies](#technologies) 
+7. [Tools](#tools)   
 8. [Git Repository Link](#git-repository-link)  
 
+---
 
 ## Research Question
 <ol>
@@ -51,6 +47,7 @@ The Reading and Comprehension Coach is an innovative application designed to enh
    - Maths Adventure Quest​.
    - Understanding Vocabulary​.
      
+---
 
 ## System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)  
