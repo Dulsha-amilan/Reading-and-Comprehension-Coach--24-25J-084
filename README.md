@@ -1,6 +1,7 @@
-# Reading-and-Comprehension-Coac
+# Reading-and-Comprehension-Coach
 
 **Project ID**: 24-25J-084 
+
 **Developed By**: Senevirathna Y.M., Hetti Hewa K.C.W.B., Karunarathna L.M.J.T., Senavirathna W.H.D.A
 
 ## Welcome
