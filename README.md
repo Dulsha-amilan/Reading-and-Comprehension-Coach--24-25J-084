@@ -38,9 +38,9 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png" alt="System Diagram" width="500"/>
 
----
+## Key Features
 
-## IT21381768 SENEVIRATHNA Y M
+### IT21381768 SENEVIRATHNA Y M
 Research Question​
 <ol>
 <li>How to develop child reading ability? </li>
