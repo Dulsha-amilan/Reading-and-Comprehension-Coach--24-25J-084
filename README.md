@@ -8,7 +8,7 @@ Research Question​
 <li>How can gamification keep children motivated?​</li>
 </ol>
 <h1>System Diagram​</h1>
-![System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
+(https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
 
 
 
@@ -21,8 +21,8 @@ Research Question​
 <li>How can voice-based interaction help children with disabilities learn more effectively?​​</li>
 <li>How can a system predict a child's general knowledge level and provide personalized feedback? ​</li>
 </ol>
-<h1>System Diagram​</h1>
-![image](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/1.png)
+## System Diagram​
+[View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
 
 
 <h1> IT21371622 ​Hetti Hewa K.C.W.B.</h1>
