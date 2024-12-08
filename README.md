@@ -7,9 +7,8 @@ Research Question​
 <li>How can the app track and improve kids’ progress?​</li>
 <li>How can gamification keep children motivated?​</li>
 </ol>
-<h1>System Diagram​</h1>
-![System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
-
+## System Diagram​
+[View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/8ad983cc50d375134a8de7ed40fb16b03714c229/all.png)
 
 
 
