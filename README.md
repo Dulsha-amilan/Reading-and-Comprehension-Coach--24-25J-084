@@ -59,8 +59,8 @@ The Reading and Comprehension Coach is an innovative application designed to enh
 
 ---
 
-## IT21371622 Hetti Hewa K.C.W.B.
-Research Question​
+### IT21371622 Hetti Hewa K.C.W.B.
+#### Research Question​
 <ol>
 <li>How do children's facial expressions influence their quiz performance and learning outcomes?​</li>
 <li>What methods are effective for real-time facial emotion analysis?​​</li>
@@ -68,15 +68,15 @@ Research Question​
 <li>How can facial emotion data enhance personalized feedback for parents and educators?​​</li>
 </ol>
 
-### System Diagram​
+#### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/2.png)
 
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/2.png" alt="System Diagram" width="500"/>
 
 ---
 
-## IT21172014 KARUNARATHNA L M J T​
-Research Question​
+### IT21172014 KARUNARATHNA L M J T​
+#### Research Question​
 <ol>
 <li>How does storytelling improve engagement in early math learning?​</li>
 <li>Does using hand gestures make math easier for kids?​</li>
@@ -85,15 +85,15 @@ Research Question​
 <li>Can personalized feedback enhance math learning for young children?​</li>
 </ol>
 
-### System Diagram​
+#### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/3.png)
 
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/3.png" alt="System Diagram" width="500"/>
 
 ---
 
-## IT21357930 Senavirathna W.H.D.A​
-Research Question​
+### IT21357930 Senavirathna W.H.D.A​
+#### Research Question​
 <ol>
 <li>How do adaptive vocabulary games impact the vocabulary retention of children aged 4-7?​</li>
 <li>What are effective ways to integrate interactive storytelling elements into an educational UI?​​</li>
@@ -102,8 +102,36 @@ Research Question​
 <li>What are the measurable benefits of integrating data-driven insights into vocabulary instruction?​</li>
 </ol>
 
-### System Diagram​
+#### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/4.png)
 
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/4.png" alt="System Diagram" width="500"/>
+
+---
+
+## Technologies
+
+### Frontend
+- **Flutter**: Used for cross-platform UI development, primarily on Android (using Android Studio).
+
+### Backend
+- **Python (FastAPI)**: Primary backend framework for building RESTful APIs.
+- **Node.js**
+
+### Database
+- **Google Firestore**
+
+
+## Tools
+
+### Development
+- Google Colab (ML model development)
+- VS Code
+- Android Studio
+
+### Version Control
+- Git
+
+### API Testing
+- Postman
 
