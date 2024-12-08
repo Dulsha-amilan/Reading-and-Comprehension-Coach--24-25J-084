@@ -1,4 +1,12 @@
-# Reading-and-Comprehension-Coach-24-25J-084
+# Reading-and-Comprehension-Coac
+
+**Project ID**: 24-25J-084 
+**Developed By**: Senevirathna Y.M., Hetti Hewa K.C.W.B., Karunarathna L.M.J.T., Senavirathna W.H.D.A
+
+## Welcome
+The Reading and Comprehension Coach is an innovative application designed to enhance children's reading skills and comprehension abilities through personalized, engaging, and interactive learning experiences. By leveraging modern technologies such as voice recognition, image recognition, and gamification, this application empowers learners, including those with learning disabilities, to develop their reading proficiency and foster a lifelong love for learning.
+
+
 Research Question​
 <ol>
 <li>What interactive features improve kids’ reading comprehension?</li>
@@ -43,6 +51,7 @@ Research Question​
 
 ### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/2.png)
+
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/2.png" alt="System Diagram" width="500"/>
 
 ---
@@ -59,6 +68,7 @@ Research Question​
 
 ### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/3.png)
+
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/3.png" alt="System Diagram" width="500"/>
 
 ---
@@ -75,5 +85,6 @@ Research Question​
 
 ### System Diagram​
 [View System Diagram](https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/4.png)
+
 <img src="https://github.com/Dulsha-amilan/Reading-and-Comprehension-Coach--24-25J-084/blob/e7b6f84c57acaa8e2a815d8f6ab225714ab11abe/4.png" alt="System Diagram" width="500"/>
 
